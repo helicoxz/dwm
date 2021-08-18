@@ -117,7 +117,7 @@ static Key keys[] = {
     /* Switch to specific layouts */
 	{ MODKEY,               -1,        XK_t,      setlayout,      {.v = &layouts[0]} },
 	{ MODKEY,               -1,        XK_f,      setlayout,      {.v = &layouts[1]} },
-	{ MODKEY,               -1,        XK_m,      setlayout,      {.v = &layouts[2]} },
+//	{ MODKEY,               -1,        XK_m,      setlayout,      {.v = &layouts[2]} },
 	{ MODKEY,               -1,        XK_g,      setlayout,      {.v = &layouts[3]} },
 
 	{ MODKEY,               -1,        XK_0,      view,           {.ui = ~0 } },
