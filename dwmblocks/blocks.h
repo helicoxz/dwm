@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/	 	/*Update Interval*/	/*Update Signal*/
 
-    {" ", "/home/helico/dwm/dwmblocks-distrotube/scripts/kernel",		    360,		        2},
+// {" ", "/home/helico/dwm/dwmblocks-distrotube/scripts/kernel",		    360,		        2},
 
 	{"  ", "/home/helico/dwm/dwmblocks-distrotube/scripts/upt",		        60,		            2},
 
